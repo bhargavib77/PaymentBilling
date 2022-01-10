@@ -52,6 +52,7 @@
 					out.print(request.getAttribute("notlogin_msg"));
 					out.print("</font>");
 					out.print("This is Test msg");
+					out.print("This is Test msg for commit");
 					}
 					%>
 				
